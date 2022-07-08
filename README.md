@@ -61,7 +61,7 @@ At the same time, if you are a minor under 14 years of age, please do not use ou
 
 ### Contact us
 
-If you have any questions or complaints about this privacy policy or your personal information, please send an email to hbandservice@outlook.com.
+If you have any questions or complaints about this privacy policy or your personal information, please send an email to smartwatch2022@outlook.com.
 
 
 
@@ -402,7 +402,7 @@ The substantial changes referred to in this "Personal Information Protection and
 
 If you have any questions, comments, suggestions about this "Personal Information Protection and Privacy Policy" and our handling of your personal information, or if you find that your personal information may be leaked, please contact us through the following methods:
 
-1. Contact us via email: hbandservice@outlook.com.
+1. Contact us via email: smartwatch2022@outlook.com.
 
 For issues related to this policy or personal information protection, we will respond to your request within 15 working days after receiving your information.
 
