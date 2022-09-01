@@ -1,7 +1,7 @@
 # Andfz Personal Information Protection and Privacy Policy
 
 
-Latest update: December 10, 2021
+Latest update: September 1, 2022
 
 In order to fully protect your rights, we have updated the "Andfz Personal Information Protection and Privacy Policy". This version of the update mainly focuses on:
 
@@ -12,7 +12,7 @@ In order to fully protect your rights, we have updated the "Andfz Personal Infor
 
 # Overview
 
-Welcome to Andfz! Andfz is a free application developed by 嘉桐科技创新（深圳）有限公司 (hereinafter referred to as "Andfz", "we","us","our service" or "our product").
+Welcome to Andfz! Andfz is a free application developed by Jia Tong Technology Innovation (Shenzhen) Co Ltd (hereinafter referred to as "Andfz", "we","us","our service" or "our product").
 
 Our privacy policy will elaborate on how we collect and use your personal information when you use our products and services, as well as the information control we provide you and the measures we take to protect information security.
 
@@ -61,7 +61,7 @@ At the same time, if you are a minor under 14 years of age, please do not use ou
 
 ### Contact us
 
-If you have any questions or complaints about this privacy policy or your personal information, please send an email to smartwatch2022@outlook.com.
+If you have any questions or complaints about this privacy policy or your personal information, please send an email to support@andfz.com.
 
 
 
@@ -113,7 +113,7 @@ Based on the product used, the method of use or acquisition, and your authorizat
 | Location information     | Accurate location information, whereabouts.                  | Sensitive information, not necessary     | -Record the trajectory in motion; <br />- Provide real-time weather services. | -The location information used to record the motion track will be retained until you request the removal of the information or it will be permanently deleted after 6 months from the date you log out of your account, whichever is earlier. <br />- The location information used to provide real-time weather services will not be uploaded to the server and will be retained until you uninstall the application or request the removal of the information, whichever is earlier. |
 | Product Information      | **Product activation date, battery measurement data, production number, debugging technical information, etc**. | **Non-sensitive information, necessary** | -When you use our products, the product information will be used to update the product status. | Product information is not associated with personal information, it will be anonymized and stored permanently. |
 | Notification information | Mobile application notification information.                 | Sensitive information, non-essential     | -Provide you with communication notification services according to your needs. | The notification information is only used to be synchronized to the smart wearable device for display, the application does not save, and the smart wearable device side will remain until you request to remove the information. |
-| Service log information  | IP address, browser type, telecom operator, language used, access date and time, application crash information | Non-sensitive information, necessary     | -Provide you with technical support to solve product and service problems. | Service log information is not associated with personal information and will be permanently deleted after 6 months from the date of collection. |
+| Service log information  | IP address, browser type, telecom operator, language used, access date and time, application crash information, device random ID, device model, mobile system version, SDK version | Non-sensitive information, necessary     | -Provide you with technical support to solve product and service problems. | Service log information is not associated with personal information and will be permanently deleted after 6 months from the date of collection. |
 
 
 
@@ -174,7 +174,7 @@ We also use your data to make inferences and show you more relevant content. Her
 
   
 
-### account
+### Account
 
 By creating an Andfz account (including online accounts-register via email or mobile number, and local accounts), you can better use our products and services. Through this account, you can also manage your own content and preferences, as well as the measurement data collected by the product.
 
@@ -329,11 +329,11 @@ For example, through your privacy settings, you can limit the visibility of your
 
 
 
-### Logout
+### Delete account
 
 **If you choose to delete your account, most of your information will be deleted immediately, but a small amount of information may take up to six months to be permanently deleted. For specific time, see "10. How long will we keep your personal data? time? ". In addition, we may also retain information or prevent harm for legal reasons**.
 
-Please note that the account cancellation operation cannot be revoked. If you have cancelled your Andfz account and want to use our products and services again, you only need to create a new account, but the personal information before the account cancellation can no longer be retrieved.
+Please note that the account deletion operation cannot be revoked. If you have cancelled your Andfz account and want to use our products and services again, you only need to create a new account, but the personal information before the account cancellation can no longer be retrieved.
 
 
 
@@ -347,7 +347,7 @@ If you are unable to exercise the relevant rights through the above steps, you c
 
 The length of time we retain your information depends on the type of information, and the retention time will not exceed the period prescribed by law.
 
-If you have cancelled your Andfz account and want to use our products and services again, just create a new account.
+If you have deleted your Andfz account and want to use our products and services again, just create a new account.
 
 | Information Type                  | Information                                                  | Storage Period                                               |
 | :-------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -362,7 +362,7 @@ If you have cancelled your Andfz account and want to use our products and servic
 | Health Information                | Heart rate, sleep status, blood oxygen, electrocardiogram (ECG), body temperature, heart rate variability (HRV), etc. | Health information will be retained until you request to remove the information or permanently deleted after 6 months from the date you cancel your account, whichever is earlier. |
 | Product Information               | **Product activation date, battery measurement data, production number, debugging technical information, etc**. | Product information is not associated with personal information and will be anonymized and stored permanently. |
 | Notification information          | Mobile application notification information.                 | The notification information is only used to be synchronized to the smart wearable device for display, the application does not save, and the smart wearable device side will remain until you request to remove the information. |
-| Service log information           | IP address, browser type, telecom operator, language used, access date and time, application crash information | Service log information is not associated with personal information, and will be permanently deleted after 6 months from the date of collection . |
+| Service log information           | IP address, browser type, telecom operator, language used, access date and time, application crash information, device random ID, device model, mobile system version, SDK version | Service log information is not associated with personal information, and will be permanently deleted after 6 months from the date of collection . |
 
 
 
@@ -402,7 +402,7 @@ The substantial changes referred to in this "Personal Information Protection and
 
 If you have any questions, comments, suggestions about this "Personal Information Protection and Privacy Policy" and our handling of your personal information, or if you find that your personal information may be leaked, please contact us through the following methods:
 
-1. Contact us via email: smartwatch2022@outlook.com.
+1. Contact us via email: support@andfz.com.
 
 For issues related to this policy or personal information protection, we will respond to your request within 15 working days after receiving your information.
 
@@ -446,24 +446,25 @@ For issues related to this policy or personal information protection, we will re
 
 ### Android
 
-| Name                   | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed**                       | **Official Website**                   |
-| ---------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | -------------------------------------- |
-| Umeng SDK              | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information                       | https://www.umeng.com/                 |
-| Google Maps SDK        | Google                                         | Used to display maps                                         | Device identification information, location information | https://developers.google.cn/maps/     |
-| Google positioning SDK | Google                                         | Used to realize positioning                                  | Device identification information, location information | ~~https://developers.google.cn/maps/~~ |
-| mob_sms SDK            | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information                               | https://www.mob.com/                   |
-
+| Name                   | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed**                       | **Official Website**                   | **Privacy Policy Link**                   |
+| ---------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | -------------------------------------- | -------------------------------------- |
+| Umeng SDK              | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information                       | https://www.umeng.com/                 | https://lbs.amap.com/pages/privacy/                |
+| Google Maps SDK        | Google                                         | Used to display maps                                         | Device identification information, location information | https://developers.google.cn/maps/     | https://policies.google.cn/privacy    |
+| Google positioning SDK | Google                                         | Used to realize positioning                                  | Device identification information, location information | https://developers.google.cn/maps/ | https://policies.google.cn/privacy |
+| mob_sms SDK            | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information                               | https://www.mob.com/                   |https://www.mob.com/about/policy                   |
+| Hyphenate-chat SDK           | Beijing Yizhangyunfeng Tech Co., Ltd.  | For customer service and online IM                             | Device identification information, account information                               | https://www.easemob.com/                |https://www.easemob.com/protocol                 |
 
 
 ### iOS
 
-| Name        | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed** | **Official Website**   |
-| ----------- | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ---------------------- |
-| Umeng SDK   | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information | https://www.umeng.com/ |
-| mob_sms SDK | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information         | https://www.mob.com/   |
+| Name        | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed** | **Official Website**   | **Privacy Policy Link**                   |
+| ----------- | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ---------------------- | ---------------------- |
+| Umeng SDK   | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information | https://www.umeng.com/ | https://lbs.amap.com/pages/privacy/                |
+| mob_sms SDK | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information         | https://www.mob.com/   |https://www.mob.com/about/policy                   |
+| Hyphenate-chat SDK           | Beijing Yizhangyunfeng Tech Co., Ltd.  | For customer service and online IM                             | Device identification information, account information                               | https://www.easemob.com/                |https://www.easemob.com/protocol                 |
 
 
 
 (End)
 
-嘉桐科技创新（深圳）有限公司
+Jia Tong Technology Innovation (Shenzhen) Co Ltd  
